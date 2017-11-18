@@ -1,0 +1,26 @@
+/* add your CSS here */
+
+body{
+    width: 320px;
+    
+}
+.facts {
+    font-style: italic;
+}
+
+span {
+    font-weight: bold; 
+}
+ul {
+  list-style-type: none;
+}
+.brd {
+    border: 1px gray;
+    border-style: solid;
+}
+.padding{
+    padding: 2%;
+}
+img{
+    width: 300px;
+}
